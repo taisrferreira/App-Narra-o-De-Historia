@@ -1,1 +1,0 @@
-# App-Narra-o-De-Historia
