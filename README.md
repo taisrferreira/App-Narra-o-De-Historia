@@ -1,1 +1,3 @@
-# App-Narra-o-De-Historia
+# Aplicativo Narração de Histórias
+
+Rede Social para compartilhar histórias e fábulas
